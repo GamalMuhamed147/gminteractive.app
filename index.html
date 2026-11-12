@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GM Interactive</title>
+<meta name="description" content="Small, careful apps by Gamal Nawar. Home of Stamped, a travel passport for your phone.">
+<link rel="icon" href="/stamped/img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<style>
+  .hero { padding: 72px 0 24px; }
+  .hero h1 { max-width: 760px; margin: 14px 0 18px; }
+  .hero p { max-width: 560px; font-size: 19px; color: var(--muted); }
+  .apps { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; }
+  .app { display: flex; gap: 20px; align-items: center; padding: 22px; text-decoration: none; color: inherit; transition: transform .15s, border-color .15s; }
+  .app:hover { transform: translateY(-2px); border-color: var(--primary); }
+  .app img { width: 84px; height: 84px; border-radius: 20px; flex: none; }
+  .app h3 { font-size: 26px; margin: 4px 0 4px; }
+  .app p { margin: 0; color: var(--muted); font-size: 15px; }
+  .app .label { color: var(--red); }
+  .soon { padding: 22px; border-style: dashed; display: flex; align-items: center; justify-content: center; text-align: center; color: var(--muted); min-height: 128px; }
+</style>
+</head>
+<body>
+<header class="wrap top">
+  <a class="brand" href="/"><span class="brand-mark">GM</span>GM INTERACTIVE</a>
+  <nav class="nav"><a href="/stamped/">Stamped</a><a href="mailto:support@gminteractive.app">Contact</a></nav>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="kicker">Independent apps</div>
+    <h1>Small, careful apps for the things you love.</h1>
+    <p>GM Interactive is Gamal Nawar, a developer who builds the apps he wants to use himself: offline first, no accounts, no ads, no tracking.</p>
+  </section>
+
+  <div class="rule"><span>Apps</span></div>
+  <div class="apps">
+    <a class="card app" href="/stamped/">
+      <img src="/stamped/img/icon.png" alt="Stamped app icon" width="84" height="84">
+      <div>
+        <div class="label">Travel · Android + iPhone</div>
+        <h3>Stamped</h3>
+        <p>Your travels as a passport: stamp countries, plan trips, log flights.</p>
+      </div>
+    </a>
+    <div class="card soon"><span class="label">More on the way</span></div>
+  </div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <span class="label">© 2026 GM Interactive</span>
+    <a class="label" href="mailto:support@gminteractive.app">support@gminteractive.app</a>
+  </div>
+</footer>
+</body>
+</html>
