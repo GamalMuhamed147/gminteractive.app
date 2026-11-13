@@ -61,8 +61,12 @@
 </head>
 <body>
 <header class="wrap top">
-  <a class="brand" href="/"><span class="brand-mark">GM</span>GM INTERACTIVE</a>
-  <nav class="nav"><a href="#features">Features</a><a href="/stamped/support/">Support</a><a href="/stamped/privacy/">Privacy</a></nav>
+  <a class="brand" href="/"><svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18.5" fill="none" stroke="var(--red)" stroke-width="2"/><circle cx="20" cy="20" r="15" fill="none" stroke="var(--red)" stroke-width="0.9"/><text x="20" y="24.6" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="13" letter-spacing="-0.5" fill="var(--red)">GM</text></svg>GM Interactive</a>
+  <nav class="nav" aria-label="Main"><a href="/stamped/#features">Features</a><a href="/stamped/support/">Support</a><a href="/stamped/privacy/">Privacy</a><a class="cta" href="/stamped/">Get Stamped</a></nav>
+  <details class="menu">
+    <summary aria-label="Menu"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></summary>
+    <div class="menu-panel"><a href="/stamped/#features">Features</a><a href="/stamped/support/">Support</a><a href="/stamped/privacy/">Privacy</a><a href="/stamped/">Get Stamped</a></div>
+  </details>
 </header>
 
 <main class="wrap">
@@ -83,7 +87,7 @@
   <div class="pass" aria-label="What's inside">
     <div><div class="n">195</div><div class="l">Countries to stamp</div></div>
     <div><div class="n">33</div><div class="l">Badges to earn</div></div>
-    <div><div class="n">11</div><div class="l">Collections</div></div>
+    <div><div class="n">47</div><div class="l">Collections</div></div>
     <div><div class="n">0</div><div class="l">Accounts needed</div></div>
     <div class="mrz">P&lt;STAMPED&lt;&lt;TRAVELLER&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</div>
   </div>
@@ -107,7 +111,7 @@
     <div class="card feat"><span class="chip c-blue">Trips</span><h3>Plan the next one</h3><p>Boarding-pass countdowns, the weather, public holidays, packing lists and reminders before you fly.</p></div>
     <div class="card feat"><span class="chip c-amber">Money</span><h3>Expenses in any currency</h3><p>Log spending in the local currency, set a budget, and see what's left per day. Exchange rates update daily.</p></div>
     <div class="card feat"><span class="chip c-red">Flights</span><h3>Flight log</h3><p>Every flight with distance and time, airlines, airports and how many times you've gone around the Earth.</p></div>
-    <div class="card feat"><span class="chip c-purple">Badges</span><h3>Stamps to collect</h3><p>Passport-stamp badges with tiers, regional collections, yearly goals and a Year in review for every year.</p></div>
+    <div class="card feat"><span class="chip c-purple">Badges</span><h3>Stamps to collect</h3><p>Passport-stamp badges with tiers, 47 collections, yearly goals and a Year in review for every year.</p></div>
   </div>
 
   <div class="rule"><span>Private by design</span></div>
@@ -140,8 +144,18 @@
 
 <footer class="foot">
   <div class="wrap">
-    <span class="label">© 2026 GM Interactive</span>
-    <span class="nav"><a href="/stamped/support/">Support</a><a href="/stamped/privacy/">Privacy</a><a href="/">GM Interactive</a></span>
+    <div class="foot-grid">
+      <div class="foot-about">
+        <a class="brand" href="/"><svg width="30" height="30" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18.5" fill="none" stroke="var(--red)" stroke-width="2"/><circle cx="20" cy="20" r="15" fill="none" stroke="var(--red)" stroke-width="0.9"/><text x="20" y="24.6" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="13" letter-spacing="-0.5" fill="var(--red)">GM</text></svg>GM Interactive</a>
+        <p>An independent studio making thoughtful apps for iPhone and Android.</p>
+      </div>
+      <div class="foot-cols">
+        <div class="foot-col"><span class="label">Apps</span><a href="/stamped/">Stamped</a></div>
+        <div class="foot-col"><span class="label">Stamped</span><a href="/stamped/support/">Support</a><a href="/stamped/privacy/">Privacy policy</a></div>
+        <div class="foot-col"><span class="label">Contact</span><a href="mailto:support@gminteractive.app">support@gminteractive.app</a></div>
+      </div>
+    </div>
+    <div class="label foot-copy">© 2026 GM Interactive</div>
   </div>
 </footer>
 </body>
