@@ -7,7 +7,10 @@
 <meta name="description" content="Your travels as a passport: stamp countries, plan trips, log flights. Offline, no account, no ads.">
 <meta property="og:title" content="Stamped · Travel Passport">
 <meta property="og:description" content="Your travels as a passport: stamp countries, plan trips, log flights. Offline.">
-<meta property="og:image" content="https://gminteractive.app/stamped/img/shot-1.webp">
+<meta property="og:image" content="https://gminteractive.app/stamped/img/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/stamped/img/favicon.png">
 <link rel="apple-touch-icon" href="/stamped/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,11 +21,11 @@
   .hero { display: grid; grid-template-columns: 1.2fr .8fr; gap: 40px; align-items: center; padding: 48px 0 8px; }
   .hero h1 { margin: 14px 0 18px; }
   .hero .lead { font-size: 20px; color: var(--muted); max-width: 520px; margin-bottom: 26px; }
-  .hero .stamp { width: min(320px, 80%); justify-self: center; transform: rotate(-8deg); filter: drop-shadow(0 10px 24px rgba(0,0,0,.12)); }
+  .hero .logo { width: min(270px, 70%); height: auto; justify-self: center; transform: rotate(-6deg); filter: drop-shadow(0 18px 30px rgba(31,59,92,.28)); }
   .note { margin-top: 14px; font-size: 14px; color: var(--muted); }
   @media (max-width: 760px) {
     .hero { grid-template-columns: 1fr; padding-top: 24px; }
-    .hero .stamp { grid-row: 1; width: 170px; justify-self: start; }
+    .hero .logo { grid-row: 1; width: 120px; height: auto; justify-self: start; }
   }
 
   /* passport card */
@@ -81,7 +84,7 @@
       </div>
       <p class="note">Free. Works offline. No account, no ads.</p>
     </div>
-    <img class="stamp" src="/stamped/img/stamp.png" alt="The Stamped logo, a red passport stamp" width="320" height="320">
+    <img class="logo" src="/stamped/img/logo.png" alt="The Stamped logo: an S inside a diamond, cream on navy" width="320" height="320">
   </section>
 
   <div class="pass" aria-label="What's inside">
@@ -106,12 +109,15 @@
 
   <div class="rule" id="features"><span>Features</span></div>
   <div class="feats">
-    <div class="card feat"><span class="chip c-green">Map</span><h3>A world map and a globe</h3><p>Visited, transit, wishlist and planned countries, flight routes, and the places you were born and lived.</p></div>
-    <div class="card feat"><span class="chip c-primary">Visa</span><h3>Visa guidance</h3><p>See which countries are visa-free, visa on arrival or e-visa for your passport, plus a Schengen 90/180 day counter.</p></div>
+    <div class="card feat"><span class="chip c-green">Map</span><h3>A world map and a globe</h3><p>Visited, transit, wishlist and planned countries, your flight routes, and the places you were born and lived. Slide back through the years.</p></div>
+    <div class="card feat"><span class="chip c-primary">Visa</span><h3>Visa guidance</h3><p>Visa-free, on arrival or e-visa for your passport, two passports at once, any two passports side by side, and a Schengen 90/180 day counter.</p></div>
+    <div class="card feat"><span class="chip c-amber">Before you go</span><h3>Know the country</h3><p>The time there, plugs and voltage, driving side, emergency numbers to copy and a currency converter, all on one page.</p></div>
     <div class="card feat"><span class="chip c-blue">Trips</span><h3>Plan the next one</h3><p>Boarding-pass countdowns, the weather, public holidays, packing lists and reminders before you fly.</p></div>
-    <div class="card feat"><span class="chip c-amber">Money</span><h3>Expenses in any currency</h3><p>Log spending in the local currency, set a budget, and see what's left per day. Exchange rates update daily.</p></div>
-    <div class="card feat"><span class="chip c-red">Flights</span><h3>Flight log</h3><p>Every flight with distance and time, airlines, airports and how many times you've gone around the Earth.</p></div>
-    <div class="card feat"><span class="chip c-purple">Badges</span><h3>Stamps to collect</h3><p>Passport-stamp badges with tiers, 47 collections, yearly goals and a Year in review for every year.</p></div>
+    <div class="card feat"><span class="chip c-amber">Money</span><h3>A receipt for every trip</h3><p>Log spending in the local currency, set a budget and see what's left per day. Exchange rates update daily.</p></div>
+    <div class="card feat"><span class="chip c-red">Flights</span><h3>Flight log</h3><p>Every flight with times, distance, airlines and airports, grouped by trip, and how many times you've gone around the Earth.</p></div>
+    <div class="card feat"><span class="chip c-purple">Badges</span><h3>Stamps to collect</h3><p>Passport-stamp badges with tiers, 47 collections from the Balkans to A to Z, and yearly goals.</p></div>
+    <div class="card feat"><span class="chip c-green">Your story</span><h3>Journal and Year in review</h3><p>Every stamp on a timeline, a page for every year, and "on this day" memories from past trips.</p></div>
+    <div class="card feat"><span class="chip c-red">Feeling brave?</span><h3>Wherever it lands</h3><p>Can't decide? Spin the stamp over your wishlist, the countries easy for your passport, or anywhere new.</p></div>
   </div>
 
   <div class="rule"><span>Private by design</span></div>
