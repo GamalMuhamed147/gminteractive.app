@@ -1,0 +1,19 @@
+{
+  "app": "stamped",
+  "schema": 1,
+  "files": {
+    "holidays.json": "2026-11-02",
+    "essentials.json": "2026-11-02",
+    "prices.json": "2026-11-26",
+    "climate.json": "2026-11-25"
+  },
+  "news": [
+    {
+      "id": "2026-11-26-whats-new",
+      "date": "2026-11-26",
+      "title": "News now comes to you",
+      "body": "New data, tips and app news show up here. Holidays, plugs, prices and climate can now be fixed without waiting for an app update.",
+      "url": "https://gminteractive.app/stamped/"
+    }
+  ]
+}

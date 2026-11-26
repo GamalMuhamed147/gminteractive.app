@@ -1,0 +1,3775 @@
+{
+  "AD": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+376",
+    "sos": {
+      "ambulance": "116"
+    }
+  },
+  "AE": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [
+      "C",
+      "D"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+971",
+    "sos": {
+      "police": "999",
+      "ambulance": "998",
+      "fire": "997"
+    }
+  },
+  "AF": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+93",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "AG": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+1268",
+    "sos": {
+      "all": "911",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "AL": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+355",
+    "sos": {
+      "police": "129",
+      "ambulance": "127",
+      "fire": "128"
+    }
+  },
+  "AM": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+374",
+    "sos": {
+      "all": "112",
+      "also": [
+        "911"
+      ]
+    }
+  },
+  "AO": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+244",
+    "sos": {
+      "all": "112",
+      "also": [
+        "116"
+      ]
+    }
+  },
+  "AR": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [
+      "C"
+    ],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+54",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "AT": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+43",
+    "sos": {
+      "police": "133",
+      "ambulance": "144",
+      "fire": "133"
+    }
+  },
+  "AU": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+61",
+    "sos": {
+      "all": "000"
+    }
+  },
+  "AZ": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+994",
+    "sos": {
+      "all": "112",
+      "also": [
+        "103"
+      ]
+    }
+  },
+  "BA": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+387",
+    "sos": {
+      "police": "122",
+      "ambulance": "124",
+      "fire": "123"
+    }
+  },
+  "BB": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      115
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1246",
+    "sos": {
+      "police": "211",
+      "ambulance": "511",
+      "fire": "311"
+    }
+  },
+  "BD": {
+    "plugs": [
+      "A",
+      "C",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+880",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "BE": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+32",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "BF": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+226",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "BG": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+359",
+    "sos": {
+      "all": "112",
+      "also": [
+        "150"
+      ]
+    }
+  },
+  "BH": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+973",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "BI": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+257",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "BJ": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+229",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "BN": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+673",
+    "sos": {
+      "police": "993",
+      "ambulance": "991",
+      "fire": "995"
+    }
+  },
+  "BO": {
+    "plugs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+591",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "BR": {
+    "plugs": [
+      "C",
+      "N"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      127,
+      220
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+55",
+    "sos": {
+      "ambulance": "192"
+    }
+  },
+  "BS": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+1242",
+    "sos": {
+      "all": "911",
+      "also": [
+        "919"
+      ]
+    }
+  },
+  "BT": {
+    "plugs": [
+      "C",
+      "D",
+      "F",
+      "G",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+975",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "BW": {
+    "plugs": [
+      "D",
+      "G",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+267",
+    "sos": {
+      "ambulance": "997"
+    }
+  },
+  "BY": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+375",
+    "sos": {
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101"
+    }
+  },
+  "BZ": {
+    "plugs": [
+      "A",
+      "B",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      110,
+      220
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+501",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "CA": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+1",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "CD": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+243",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "CF": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+236",
+    "sos": {
+      "ambulance": "1220"
+    }
+  },
+  "CG": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+242",
+    "sos": {
+      "ambulance": "117"
+    }
+  },
+  "CH": {
+    "plugs": [
+      "C",
+      "J"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+41",
+    "sos": {
+      "police": "117",
+      "ambulance": "144",
+      "fire": "118"
+    }
+  },
+  "CI": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+225",
+    "sos": {
+      "ambulance": "185"
+    }
+  },
+  "CL": {
+    "plugs": [
+      "C",
+      "L"
+    ],
+    "otherPlugs": [
+      "F"
+    ],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+56",
+    "sos": {
+      "police": "133",
+      "ambulance": "131",
+      "fire": "132"
+    }
+  },
+  "CM": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+237",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "CN": {
+    "plugs": [
+      "A",
+      "C",
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+86",
+    "sos": {
+      "police": "110",
+      "ambulance": "120",
+      "fire": "119"
+    }
+  },
+  "CO": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120,
+      240
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+57",
+    "sos": {
+      "police": "112",
+      "ambulance": "125",
+      "fire": "119"
+    }
+  },
+  "CR": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+506",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "CU": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      110
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+53",
+    "sos": {
+      "ambulance": "104"
+    }
+  },
+  "CV": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+238",
+    "sos": {
+      "police": "132",
+      "ambulance": "130",
+      "fire": "131"
+    }
+  },
+  "CY": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+357",
+    "sos": {
+      "all": "112",
+      "also": [
+        "199"
+      ]
+    }
+  },
+  "CZ": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+420",
+    "sos": {
+      "all": "112",
+      "also": [
+        "155"
+      ]
+    }
+  },
+  "DE": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+49",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "DJ": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+253",
+    "sos": {
+      "ambulance": "19"
+    }
+  },
+  "DK": {
+    "plugs": [
+      "C",
+      "K"
+    ],
+    "otherPlugs": [
+      "E",
+      "F"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+45",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "DM": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1767",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "DO": {
+    "plugs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+1",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "DZ": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+213",
+    "sos": {
+      "ambulance": "14"
+    }
+  },
+  "EC": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+593",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "EE": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+372",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "EG": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+20",
+    "sos": {
+      "police": "122",
+      "ambulance": "123",
+      "fire": "180"
+    }
+  },
+  "ER": {
+    "plugs": [
+      "C",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+291",
+    "sos": {
+      "ambulance": "114"
+    }
+  },
+  "ES": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+34",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "ET": {
+    "plugs": [
+      "C",
+      "E",
+      "F",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+251",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "FI": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+358",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "FJ": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+679",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "FM": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+691",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "FR": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+33",
+    "sos": {
+      "all": "112",
+      "also": [
+        "15"
+      ]
+    }
+  },
+  "GA": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+241",
+    "sos": {
+      "ambulance": "1300"
+    }
+  },
+  "GB": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [
+      "D",
+      "M"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+44",
+    "sos": {
+      "all": "999",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "GD": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1473",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "GE": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+995",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "GH": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+233",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "GM": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+220",
+    "sos": {
+      "ambulance": "116"
+    }
+  },
+  "GN": {
+    "plugs": [
+      "C",
+      "F",
+      "K"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+224",
+    "sos": {
+      "ambulance": "18"
+    }
+  },
+  "GQ": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+240",
+    "sos": {
+      "ambulance": "115"
+    }
+  },
+  "GR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+30",
+    "sos": {
+      "police": "100",
+      "ambulance": "166",
+      "fire": "199",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "GT": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+502",
+    "sos": {
+      "ambulance": "122"
+    }
+  },
+  "GW": {
+    "plugs": [
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+245",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "GY": {
+    "plugs": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      190,
+      240
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+592",
+    "sos": {
+      "ambulance": "913"
+    }
+  },
+  "HN": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+504",
+    "sos": {
+      "police": "119",
+      "ambulance": "195",
+      "fire": "198"
+    }
+  },
+  "HR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+385",
+    "sos": {
+      "all": "112",
+      "also": [
+        "194"
+      ]
+    }
+  },
+  "HT": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      110
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+509",
+    "sos": {
+      "ambulance": "116"
+    }
+  },
+  "HU": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+36",
+    "sos": {
+      "all": "112",
+      "also": [
+        "104"
+      ]
+    }
+  },
+  "ID": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+62",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "IE": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+353",
+    "sos": {
+      "all": "112",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "IL": {
+    "plugs": [
+      "C",
+      "H"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+972",
+    "sos": {
+      "police": "100",
+      "ambulance": "101",
+      "fire": "102"
+    }
+  },
+  "IN": {
+    "plugs": [
+      "C",
+      "D",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+91",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "IQ": {
+    "plugs": [
+      "C",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+964",
+    "sos": {
+      "all": "112",
+      "also": [
+        "911"
+      ]
+    }
+  },
+  "IR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+98",
+    "sos": {
+      "police": "110",
+      "ambulance": "115",
+      "fire": "123"
+    }
+  },
+  "IS": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+354",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "IT": {
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+39",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "JM": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      110
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1876",
+    "sos": {
+      "police": "119",
+      "ambulance": "110",
+      "fire": "110"
+    }
+  },
+  "JO": {
+    "plugs": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "J"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+962",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "JP": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      100,
+      200,
+      210
+    ],
+    "hz": [
+      50,
+      60
+    ],
+    "drive": "L",
+    "call": "+81",
+    "sos": {
+      "police": "110",
+      "ambulance": "119",
+      "fire": "119"
+    }
+  },
+  "KE": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+254",
+    "sos": {
+      "all": "112",
+      "also": [
+        "999",
+        "911"
+      ]
+    }
+  },
+  "KG": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+996",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "KH": {
+    "plugs": [
+      "A",
+      "C",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+855",
+    "sos": {
+      "police": "117",
+      "ambulance": "119",
+      "fire": "118"
+    }
+  },
+  "KI": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+686",
+    "sos": {
+      "ambulance": "100",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "KM": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+269",
+    "sos": {
+      "ambulance": "772-03-73"
+    }
+  },
+  "KN": {
+    "plugs": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+1869",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "KP": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+850",
+    "sos": {
+      "ambulance": "110",
+      "also": [
+        "8119"
+      ]
+    }
+  },
+  "KR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+82",
+    "sos": {
+      "police": "112",
+      "ambulance": "119",
+      "fire": "119"
+    }
+  },
+  "KW": {
+    "plugs": [
+      "C",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+965",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "KZ": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+7",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "LA": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+856",
+    "sos": {
+      "ambulance": "195"
+    }
+  },
+  "LB": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+961",
+    "sos": {
+      "ambulance": "140"
+    }
+  },
+  "LC": {
+    "plugs": [
+      "A",
+      "B",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1758",
+    "sos": {
+      "all": "911",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "LI": {
+    "plugs": [
+      "C",
+      "J"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+423",
+    "sos": {
+      "police": "112",
+      "ambulance": "144",
+      "fire": "118"
+    }
+  },
+  "LK": {
+    "plugs": [
+      "D",
+      "G",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+94",
+    "sos": {
+      "police": "112",
+      "ambulance": "110",
+      "fire": "110"
+    }
+  },
+  "LR": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+231",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "LS": {
+    "plugs": [
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+266",
+    "sos": {
+      "police": "123",
+      "ambulance": "121",
+      "fire": "122"
+    }
+  },
+  "LT": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+370",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "LU": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+352",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "LV": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+371",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "LY": {
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+218",
+    "sos": {
+      "ambulance": "1515"
+    }
+  },
+  "MA": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+212",
+    "sos": {
+      "police": "19",
+      "ambulance": "15",
+      "fire": "15"
+    }
+  },
+  "MC": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+377",
+    "sos": {
+      "all": "112",
+      "also": [
+        "18"
+      ]
+    }
+  },
+  "MD": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+373",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "ME": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+382",
+    "sos": {
+      "police": "122",
+      "ambulance": "124",
+      "fire": "123",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "MG": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+261",
+    "sos": {
+      "ambulance": "124"
+    }
+  },
+  "MH": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+692",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "MK": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+389",
+    "sos": {
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "ML": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+223",
+    "sos": {
+      "police": "18",
+      "ambulance": "15",
+      "fire": "17"
+    }
+  },
+  "MM": {
+    "plugs": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "G",
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+95",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "MN": {
+    "plugs": [
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+976",
+    "sos": {
+      "ambulance": "105"
+    }
+  },
+  "MR": {
+    "plugs": [
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+222",
+    "sos": {
+      "ambulance": "101"
+    }
+  },
+  "MT": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+356",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "MU": {
+    "plugs": [
+      "C",
+      "E",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+230",
+    "sos": {
+      "ambulance": "114"
+    }
+  },
+  "MV": {
+    "plugs": [
+      "D",
+      "G",
+      "J",
+      "K",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+960",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "MW": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+265",
+    "sos": {
+      "police": "997",
+      "ambulance": "998",
+      "fire": "999"
+    }
+  },
+  "MX": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120,
+      127
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+52",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "MY": {
+    "plugs": [
+      "C",
+      "G",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+60",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "MZ": {
+    "plugs": [
+      "C",
+      "F",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+258",
+    "sos": {
+      "police": "119",
+      "ambulance": "117",
+      "fire": "198"
+    }
+  },
+  "NA": {
+    "plugs": [
+      "D",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+264"
+  },
+  "NE": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+227",
+    "sos": {
+      "ambulance": "15"
+    }
+  },
+  "NG": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+234",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "NI": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+505",
+    "sos": {
+      "police": "118",
+      "ambulance": "128",
+      "fire": "115"
+    }
+  },
+  "NL": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+31",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "NO": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+47",
+    "sos": {
+      "police": "112",
+      "ambulance": "113",
+      "fire": "110"
+    }
+  },
+  "NP": {
+    "plugs": [
+      "C",
+      "D",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+977",
+    "sos": {
+      "police": "110",
+      "ambulance": "102",
+      "fire": "101"
+    }
+  },
+  "NR": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+674",
+    "sos": {
+      "all": "111"
+    }
+  },
+  "NZ": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+64",
+    "sos": {
+      "all": "111"
+    }
+  },
+  "OM": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+968",
+    "sos": {
+      "all": "9999"
+    }
+  },
+  "PA": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+507",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "PE": {
+    "plugs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+51",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "PG": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+675",
+    "sos": {
+      "all": "111"
+    }
+  },
+  "PH": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [
+      "C"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+63",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "PK": {
+    "plugs": [
+      "C",
+      "D",
+      "G",
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+92",
+    "sos": {
+      "ambulance": "115"
+    }
+  },
+  "PL": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+48",
+    "sos": {
+      "all": "999",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "PS": {
+    "plugs": [
+      "C",
+      "H"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+970",
+    "sos": {
+      "police": "100",
+      "ambulance": "101",
+      "fire": "101"
+    }
+  },
+  "PT": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [
+      "E"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+351",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "PW": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+680",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "PY": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "N"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+595",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "QA": {
+    "plugs": [
+      "D",
+      "F",
+      "G",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+974",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "RO": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+40",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "RS": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+381",
+    "sos": {
+      "police": "192",
+      "ambulance": "194",
+      "fire": "193"
+    }
+  },
+  "RU": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220,
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+7",
+    "sos": {
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "also": [
+        "112"
+      ]
+    }
+  },
+  "RW": {
+    "plugs": [
+      "C",
+      "E",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+250",
+    "sos": {
+      "police": "112",
+      "ambulance": "912",
+      "fire": "112"
+    }
+  },
+  "SA": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+966",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "SB": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+677",
+    "sos": {
+      "all": "911",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "SC": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+248",
+    "sos": {
+      "all": "112",
+      "also": [
+        "999"
+      ]
+    }
+  },
+  "SD": {
+    "plugs": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+249",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "SE": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+46",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "SG": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [
+      "C",
+      "M"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+65",
+    "sos": {
+      "police": "999",
+      "ambulance": "995",
+      "fire": "995"
+    }
+  },
+  "SI": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+386",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "SK": {
+    "plugs": [
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+421",
+    "sos": {
+      "all": "112",
+      "also": [
+        "155"
+      ]
+    }
+  },
+  "SL": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+232",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "SM": {
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+378",
+    "sos": {
+      "police": "112",
+      "ambulance": "118",
+      "fire": "115"
+    }
+  },
+  "SN": {
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+221",
+    "sos": {
+      "ambulance": "18"
+    }
+  },
+  "SO": {
+    "plugs": [
+      "C",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+252",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "SR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      127,
+      220
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+597",
+    "sos": {
+      "ambulance": "115"
+    }
+  },
+  "SS": {
+    "plugs": [
+      "C",
+      "D"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+211",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "ST": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+239",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "SV": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      115
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+503",
+    "sos": {
+      "ambulance": "132"
+    }
+  },
+  "SY": {
+    "plugs": [
+      "C",
+      "E",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+963",
+    "sos": {
+      "police": "112",
+      "ambulance": "110",
+      "fire": "113"
+    }
+  },
+  "SZ": {
+    "plugs": [
+      "M"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+268",
+    "sos": {
+      "ambulance": "977"
+    }
+  },
+  "TD": {
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+235",
+    "sos": {
+      "ambulance": "2251-4242"
+    }
+  },
+  "TG": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+228",
+    "sos": {
+      "ambulance": "8200"
+    }
+  },
+  "TH": {
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "O"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+66",
+    "sos": {
+      "ambulance": "1669"
+    }
+  },
+  "TJ": {
+    "plugs": [
+      "C",
+      "F",
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+992",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "TL": {
+    "plugs": [
+      "C",
+      "E",
+      "F",
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+670",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "TM": {
+    "plugs": [
+      "B",
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+993",
+    "sos": {
+      "police": "02",
+      "ambulance": "03",
+      "fire": "01"
+    }
+  },
+  "TN": {
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+216",
+    "sos": {
+      "police": "197",
+      "ambulance": "190",
+      "fire": "198"
+    }
+  },
+  "TO": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+676",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "TR": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+90",
+    "sos": {
+      "all": "112",
+      "also": [
+        "911"
+      ]
+    }
+  },
+  "TT": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      115,
+      230
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "L",
+    "call": "+1868",
+    "sos": {
+      "ambulance": "811"
+    }
+  },
+  "TV": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+688",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "TZ": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+255",
+    "sos": {
+      "ambulance": "114"
+    }
+  },
+  "UA": {
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+380",
+    "sos": {
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101"
+    }
+  },
+  "UG": {
+    "plugs": [
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+256",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "US": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+1",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "UY": {
+    "plugs": [
+      "C",
+      "F",
+      "I",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+598",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "UZ": {
+    "plugs": [
+      "C",
+      "E",
+      "F"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+998",
+    "sos": {
+      "ambulance": "103"
+    }
+  },
+  "VA": {
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+39",
+    "sos": {
+      "all": "112"
+    }
+  },
+  "VC": {
+    "plugs": [
+      "A",
+      "B",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+1784",
+    "sos": {
+      "all": "999",
+      "also": [
+        "911",
+        "112"
+      ]
+    }
+  },
+  "VE": {
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      120
+    ],
+    "hz": [
+      60
+    ],
+    "drive": "R",
+    "call": "+58",
+    "sos": {
+      "all": "911"
+    }
+  },
+  "VN": {
+    "plugs": [
+      "A",
+      "C"
+    ],
+    "otherPlugs": [
+      "B",
+      "F"
+    ],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+84",
+    "sos": {
+      "ambulance": "115"
+    }
+  },
+  "VU": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+678"
+  },
+  "WS": {
+    "plugs": [
+      "I"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+685",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "YE": {
+    "plugs": [
+      "A",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      240
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "R",
+    "call": "+967",
+    "sos": {
+      "police": "194",
+      "ambulance": "191",
+      "fire": "191"
+    }
+  },
+  "ZA": {
+    "plugs": [
+      "M",
+      "N"
+    ],
+    "otherPlugs": [
+      "C"
+    ],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+27",
+    "sos": {
+      "police": "10111",
+      "ambulance": "10177",
+      "fire": "10177"
+    }
+  },
+  "ZM": {
+    "plugs": [
+      "C",
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      230
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+260",
+    "sos": {
+      "all": "999"
+    }
+  },
+  "ZW": {
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "otherPlugs": [],
+    "volts": [
+      220
+    ],
+    "hz": [
+      50
+    ],
+    "drive": "L",
+    "call": "+263",
+    "sos": {
+      "all": "999"
+    }
+  }
+}
