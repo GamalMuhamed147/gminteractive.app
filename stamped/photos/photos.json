@@ -1,6 +1,90 @@
 {
  "built": "2026-11-26",
  "photos": {
+  "AF": {
+   "v": "2026-11-26",
+   "file": "AF.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Band-e Amir, Bamyan",
+   "author": "Sulaiman Ahmadi",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/blue-lake-between-rocky-desert-mountains-under-clear-sky-fi3KaKdJOQM",
+   "sha1": "cc83b28ba3c2d643a9b200b6e8f93336cbb5b8b4"
+  },
+  "AM": {
+   "v": "2026-11-26",
+   "file": "AM.jpg",
+   "w": 1200,
+   "h": 803,
+   "place": "Khor Virap",
+   "author": "Valeria V",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/an-old-castle-in-the-middle-of-a-field-1iCcIYpwHHo",
+   "sha1": "e406fded340427a4336863b37b304eb9720aaf7c"
+  },
+  "AZ": {
+   "v": "2026-11-26",
+   "file": "AZ.jpg",
+   "w": 1200,
+   "h": 901,
+   "place": "Icherisheher, Baku",
+   "author": "Azar Kazimli",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/brown-brick-building-during-daytime-AOWi0OXBUQo",
+   "sha1": "265bcc00c431a140da59d7a1d6d4ae4dcef24d1d"
+  },
+  "BD": {
+   "v": "2026-11-26",
+   "file": "BD.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "The Sundarbans, Bagerhat",
+   "author": "Mamun Srizon",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/lake-surrounded-with-tall-green-trees-qay3lNDSHzc",
+   "sha1": "9fad79125f650494d04e9bee1f09475457c51c25"
+  },
+  "BH": {
+   "v": "2026-11-26",
+   "file": "BH.jpg",
+   "w": 1200,
+   "h": 1702,
+   "place": "Qal'at al-Bahrain",
+   "author": "Aritra Roy",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/an-archway-in-a-stone-building-with-a-person-standing-in-the-doorway-C8HlbB4AfOw",
+   "sha1": "db572639b0cacc4464e5ce19e19e070b63d4df7d"
+  },
+  "BN": {
+   "v": "2026-11-26",
+   "file": "BN.jpg",
+   "w": 1200,
+   "h": 799,
+   "place": "Brunei",
+   "author": "Jie Yeu Teoh",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-boat-that-is-sitting-in-the-water-41dRc0wHnsM",
+   "sha1": "7242e23f22e0ea74876cad603abf6087b2388e64"
+  },
+  "BT": {
+   "v": "2026-11-26",
+   "file": "BT.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Tiger's Nest, Paro",
+   "author": "Priyangshu SV",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-mountain-with-a-very-tall-building-on-top-of-it-zhVN71I8888",
+   "sha1": "a444838bedfc25cd9d37116a867be29e93902dd4"
+  },
   "EG": {
    "v": "2026-11-26",
    "file": "EG.jpg",
