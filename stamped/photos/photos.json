@@ -85,6 +85,18 @@
    "source": "https://unsplash.com/photos/a-mountain-with-a-very-tall-building-on-top-of-it-zhVN71I8888",
    "sha1": "a444838bedfc25cd9d37116a867be29e93902dd4"
   },
+  "CN": {
+   "v": "2026-11-26",
+   "file": "CN.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "The Great Wall of China",
+   "author": "William Olivieri",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/great-wall-of-china-on-mountains-HwY9R6_YzgM",
+   "sha1": "b6dd15ea0e5041187e99e5a7142aa22c13e3e963"
+  },
   "EG": {
    "v": "2026-11-26",
    "file": "EG.jpg",
@@ -96,6 +108,102 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/brown-pyramid-under-blue-sky-during-daytime-vqRMXgVtGXM",
    "sha1": "735e5ffb2ce472629a5f065fee54718d759390f3"
+  },
+  "GE": {
+   "v": "2026-11-26",
+   "file": "GE.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Gergeti Trinity Church, Kazbegi",
+   "author": "Patrick Schneider",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/gergeti-trinity-church-on-mountain-ridge-8bPJ0vagphw",
+   "sha1": "ad711196864836552aacb9d3322b8f0dfa44758c"
+  },
+  "ID": {
+   "v": "2026-11-26",
+   "file": "ID.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Tegallalang rice terraces, Bali",
+   "author": "Niklas Weiss",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/rice-terraces-in-tegelalang-bali--2WlTWZLnRc",
+   "sha1": "5a1b9a11da4936aaec6f9cf363ac879e2fcc5028"
+  },
+  "IN": {
+   "v": "2026-11-26",
+   "file": "IN.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Taj Mahal, Agra",
+   "author": "Jovyn Chamb",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/taj-mahal-india-iWMfiInivp4",
+   "sha1": "f97e1d3b1ddb35bab1f93242db84f0f4a7735024"
+  },
+  "IQ": {
+   "v": "2026-11-26",
+   "file": "IQ.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Erbil Citadel",
+   "author": "Zanyar Ibrahim",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-brick-building-sitting-on-top-of-a-hill-DHDMoCh_aEo",
+   "sha1": "f4c39bcaaf3db0c7b7f53d7cd262a2ac211d7cba"
+  },
+  "IR": {
+   "v": "2026-11-26",
+   "file": "IR.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Isfahan",
+   "author": "Ali HSFT",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-building-with-a-green-dome-on-top-of-it-YB6ko7oDVt0",
+   "sha1": "6627871b99c156226e288efbc08623bb55cd4a45"
+  },
+  "JO": {
+   "v": "2026-11-26",
+   "file": "JO.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "The Treasury, Petra",
+   "author": "Alex Vasey",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/treasury-in-petra-sandstone-canyon-5_Bu25SV6X8",
+   "sha1": "5c3feda4e4ec15adba99d4dfa8feceb32e03ab1a"
+  },
+  "JP": {
+   "v": "2026-11-26",
+   "file": "JP.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Mount Fuji, Fujiyoshida",
+   "author": "David Edelstein",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/mount-fuji-japan-N4DbvTUDikw",
+   "sha1": "1d716970154fa8f7fce1acd503c0f02a2c9bd42f"
+  },
+  "KH": {
+   "v": "2026-11-26",
+   "file": "KH.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Angkor Wat, Siem Reap",
+   "author": "Armand Mckenzie",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/angkor-wat-temple-complex-with-palm-trees-and-water-jMW9bO1j9D0",
+   "sha1": "4acc1badf75a94a634e68f74344e9112deef663d"
   }
  }
 }
