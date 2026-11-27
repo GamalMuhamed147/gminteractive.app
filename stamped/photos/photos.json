@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26",
+ "built": "2026-11-27",
  "photos": {
   "AF": {
    "v": "2026-11-26",
@@ -205,6 +205,18 @@
    "source": "https://unsplash.com/photos/mount-fuji-japan-N4DbvTUDikw",
    "sha1": "1d716970154fa8f7fce1acd503c0f02a2c9bd42f"
   },
+  "KG": {
+   "v": "2026-11-27",
+   "file": "KG.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Issyk-Kul",
+   "author": "Igor Tverdovskiy",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-body-of-water-with-mountains-in-the-background-hqPtnORm9gU",
+   "sha1": "751cea3421d4b594e9f151f0b9ee545b47cbef86"
+  },
   "KH": {
    "v": "2026-11-26",
    "file": "KH.jpg",
@@ -216,6 +228,114 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/angkor-wat-temple-complex-with-palm-trees-and-water-jMW9bO1j9D0",
    "sha1": "4acc1badf75a94a634e68f74344e9112deef663d"
+  },
+  "KW": {
+   "v": "2026-11-27",
+   "file": "KW.jpg",
+   "w": 1200,
+   "h": 1779,
+   "place": "Kuwait Towers, Kuwait City",
+   "author": "Masrur Rahman",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/cn-tower-near-ocean-RvBN5Maxg5c",
+   "sha1": "29909f134d1e0a633030358e1385f0db5e506dd0"
+  },
+  "KZ": {
+   "v": "2026-11-27",
+   "file": "KZ.jpg",
+   "w": 1200,
+   "h": 754,
+   "place": "Almaty",
+   "author": "Ilyas Dautov",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-city-with-a-mountain-in-the-background-ljw3mBWuwTA",
+   "sha1": "22356a0159495266561e6ed3567950c1279db63d"
+  },
+  "LA": {
+   "v": "2026-11-27",
+   "file": "LA.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Luang Prabang",
+   "author": "Mon Jester",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-building-with-a-lot-of-windows-and-stairs-Wy9yEJcxAbw",
+   "sha1": "698037f050056254eecd52639e4243fc01d6866e"
+  },
+  "LB": {
+   "v": "2026-11-27",
+   "file": "LB.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Byblos port",
+   "author": "Nabih El Boustani",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/boats-beside-dock-Bc2EPt6bM5w",
+   "sha1": "23039a1694d44cbaefc37cc5d3458af5058de258"
+  },
+  "MM": {
+   "v": "2026-11-27",
+   "file": "MM.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Shwezigon Pagoda, Bagan",
+   "author": "Yves Alarie",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/brown-and-white-concrete-building-near-green-trees-during-daytime-w5rdBSRhphc",
+   "sha1": "7503399261d6092ef974648f7d269d8a1784fba9"
+  },
+  "MN": {
+   "v": "2026-11-27",
+   "file": "MN.jpg",
+   "w": 1200,
+   "h": 634,
+   "place": "Yurts on the steppe",
+   "author": "Vince Gx",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-tents-on-field-yhbanN00pb8",
+   "sha1": "ac3c2aaab5915a81be8d576a69d05a6d9dcf267e"
+  },
+  "MV": {
+   "v": "2026-11-27",
+   "file": "MV.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "The Maldives",
+   "author": "Rayyu Maldives",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-photography-of-resort-rooms-and-island-xPsFXsbXJRg",
+   "sha1": "09d47e344a0569653370b74b1306a21afc2d2ef9"
+  },
+  "MY": {
+   "v": "2026-11-27",
+   "file": "MY.jpg",
+   "w": 1200,
+   "h": 1600,
+   "place": "Petronas Twin Towers, Kuala Lumpur",
+   "author": "Ismail Bashiri",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/petronas-twin-towers-in-kuala-lumpur-GdjZs5JZwZA",
+   "sha1": "d9225c480abaf2013f32e8eec6646942912f70a2"
+  },
+  "NP": {
+   "v": "2026-11-27",
+   "file": "NP.jpg",
+   "w": 1200,
+   "h": 1800,
+   "place": "Annapurna, Narchyang",
+   "author": "Giuseppe Mondì",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/houses-overlooking-mountain-range-xyE1p1rG04U",
+   "sha1": "5dda2ffd1e2a04ce5e075f0d4f056cfe73d7ebd5"
   }
  }
 }
