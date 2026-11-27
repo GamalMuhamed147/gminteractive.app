@@ -37,6 +37,18 @@
    "source": "https://unsplash.com/photos/an-old-castle-in-the-middle-of-a-field-1iCcIYpwHHo",
    "sha1": "e406fded340427a4336863b37b304eb9720aaf7c"
   },
+  "AR": {
+   "v": "2026-11-27",
+   "file": "AR.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Perito Moreno Glacier, Patagonia",
+   "author": "Hans-Jürgen Weinhardt",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/glacier-in-los-glaciares-national-park-santa-cruz-province-patagonia-argentina-5RFMPufTKPA",
+   "sha1": "1ff7c012dccd5e5e4e6c6339a36fad26d792c6da"
+  },
   "AZ": {
    "v": "2026-11-26",
    "file": "AZ.jpg",
@@ -85,6 +97,30 @@
    "source": "https://unsplash.com/photos/a-boat-that-is-sitting-in-the-water-41dRc0wHnsM",
    "sha1": "7242e23f22e0ea74876cad603abf6087b2388e64"
   },
+  "BO": {
+   "v": "2026-11-27",
+   "file": "BO.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Salar de Uyuni",
+   "author": "Samuel Scrimshaw",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/dry-soil-under-white-clouds-and-blue-sky-at-daytime-kp_87tExCwI",
+   "sha1": "3c9d99beef257f906903a381abe7a14329031084"
+  },
+  "BR": {
+   "v": "2026-11-27",
+   "file": "BR.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Rio de Janeiro",
+   "author": "Agustin Diaz Gargiulo",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-photography-of-cityscape-near-sea-7F65HDP0-E0",
+   "sha1": "99ca56e4a7a1b2eb866bf3a55721ef0f2f4d2b5c"
+  },
   "BT": {
    "v": "2026-11-26",
    "file": "BT.jpg",
@@ -97,6 +133,18 @@
    "source": "https://unsplash.com/photos/a-mountain-with-a-very-tall-building-on-top-of-it-zhVN71I8888",
    "sha1": "a444838bedfc25cd9d37116a867be29e93902dd4"
   },
+  "CL": {
+   "v": "2026-11-27",
+   "file": "CL.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Torres del Paine",
+   "author": "Marek Piwnicki",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-mountain-range-with-a-lake-in-the-foreground-wgsu3WzFZ5c",
+   "sha1": "0d0c0ea98ac6bbc97a45159832a530cf9e35b7cb"
+  },
   "CN": {
    "v": "2026-11-26",
    "file": "CN.jpg",
@@ -108,6 +156,30 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/great-wall-of-china-on-mountains-HwY9R6_YzgM",
    "sha1": "b6dd15ea0e5041187e99e5a7142aa22c13e3e963"
+  },
+  "CO": {
+   "v": "2026-11-27",
+   "file": "CO.jpg",
+   "w": 1200,
+   "h": 1371,
+   "place": "Cartagena",
+   "author": "Ricardo Gomez Angel",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/colonial-street-and-church-in-cartagena-GcHar4P8V_Q",
+   "sha1": "3fd161e37a183feaf5038b2309d5c0061c0dacd3"
+  },
+  "EC": {
+   "v": "2026-11-27",
+   "file": "EC.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Galápagos Islands",
+   "author": "Heidi Bruce",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/an-island-with-a-sandy-beach-and-blue-water-LJIjXgutX4g",
+   "sha1": "5123ea873efe76083d15c7097ce274155f9f8113"
   },
   "EG": {
    "v": "2026-11-26",
@@ -132,6 +204,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/gergeti-trinity-church-on-mountain-ridge-8bPJ0vagphw",
    "sha1": "ad711196864836552aacb9d3322b8f0dfa44758c"
+  },
+  "GY": {
+   "v": "2026-11-27",
+   "file": "GY.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Kaieteur Falls",
+   "author": "Joshua Gobin",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-waterfall-with-water-pouring-out-of-it-7QKewlK6Glg",
+   "sha1": "de76f0bd3da7ab896e4544afe935d5b7bbfcad41"
   },
   "ID": {
    "v": "2026-11-26",
@@ -397,6 +481,18 @@
    "source": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-and-palm-trees-iQ7UkufQv6E",
    "sha1": "5ff14c1ee3684ac1fd771dc88ed17ebf7b4dfce1"
   },
+  "PE": {
+   "v": "2026-11-27",
+   "file": "PE.jpg",
+   "w": 1200,
+   "h": 795,
+   "place": "Machu Picchu",
+   "author": "Eddie Kiszka",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/machu-picchu-stone-ruins-in-peru-rFESpq5MMTg",
+   "sha1": "b6b0a326af129a556a31180e0964c0ca25ae9ee2"
+  },
   "PH": {
    "v": "2026-11-27",
    "file": "PH.jpg",
@@ -433,6 +529,18 @@
    "source": "https://unsplash.com/photos/brown-mountain-under-blue-sky-during-daytime-FvOsrwjVOzQ",
    "sha1": "a7358d416ce4c5376a3f09825420a4bd19b17a5b"
   },
+  "PY": {
+   "v": "2026-11-27",
+   "file": "PY.jpg",
+   "w": 1200,
+   "h": 899,
+   "place": "Areguá",
+   "author": "David Ress",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-and-black-church-surrounded-by-green-trees-during-daytime-5zqhGcQTMQU",
+   "sha1": "0f8fc1db91b23cc9c27a84058e8a903ee58efe1c"
+  },
   "QA": {
    "v": "2026-11-27",
    "file": "QA.jpg",
@@ -468,6 +576,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg",
    "sha1": "3893b25fda621844883b9347a6917335f7a73397"
+  },
+  "SR": {
+   "v": "2026-11-27",
+   "file": "SR.jpg",
+   "w": 1200,
+   "h": 795,
+   "place": "Upper Suriname River",
+   "author": "Anoeskha B",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-small-boat-with-two-people-on-a-wide-river-ROCJ3aEL0Wk",
+   "sha1": "83acecd1967bf0c69b97442bc1aa7bdfe3d95384"
   },
   "SY": {
    "v": "2026-11-27",
@@ -541,6 +661,18 @@
    "source": "https://unsplash.com/photos/hot-air-balloons-over-cappadocia-landscape-Os2AlMKA9aY",
    "sha1": "42bc72e5ce1fbf1f046eca36fc3ee40996d23eaf"
   },
+  "UY": {
+   "v": "2026-11-27",
+   "file": "UY.jpg",
+   "w": 1200,
+   "h": 797,
+   "place": "Colonia del Sacramento",
+   "author": "Mayumi Maciel",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-white-light-house-with-trees-in-the-foreground-n2IhyWVtxW8",
+   "sha1": "9db589ea91d516577df96791df5e0ff2e9c2b0b4"
+  },
   "UZ": {
    "v": "2026-11-27",
    "file": "UZ.jpg",
@@ -552,6 +684,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-large-building-with-many-pillars-and-arches-l3AwHYiUGG0",
    "sha1": "2eaf94fbe1cc8409f3e45aae1a3fe42db2286d95"
+  },
+  "VE": {
+   "v": "2026-11-27",
+   "file": "VE.jpg",
+   "w": 1200,
+   "h": 1807,
+   "place": "Angel Falls",
+   "author": "Alfonso Sanzone",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/waterfalls-in-the-middle-of-the-forest-bm5kx7ctmgU",
+   "sha1": "ad5254bb5772e57f7b8ce1f57781cc618097411e"
   },
   "VN": {
    "v": "2026-11-27",
