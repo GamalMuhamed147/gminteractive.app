@@ -25,6 +25,18 @@
    "source": "https://unsplash.com/photos/blue-lake-between-rocky-desert-mountains-under-clear-sky-fi3KaKdJOQM",
    "sha1": "cc83b28ba3c2d643a9b200b6e8f93336cbb5b8b4"
   },
+  "AG": {
+   "v": "2026-11-27",
+   "file": "AG.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Antigua and Barbuda",
+   "author": "Royce Fonseca",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-view-of-a-beautiful-tropical-beach-KqNY-MD-wRs",
+   "sha1": "28c524b76cd2926c1cb816a14fe20fc730c8c5d0"
+  },
   "AM": {
    "v": "2026-11-26",
    "file": "AM.jpg",
@@ -72,6 +84,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/brown-brick-building-during-daytime-AOWi0OXBUQo",
    "sha1": "265bcc00c431a140da59d7a1d6d4ae4dcef24d1d"
+  },
+  "BB": {
+   "v": "2026-11-27",
+   "file": "BB.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Barbados",
+   "author": "Kathryn Maingot",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-and-red-boat-on-water-near-brown-concrete-building-during-daytime--76qup1BmIs",
+   "sha1": "0867a42e8e9703accfd9cea685f089828c6c5476"
   },
   "BD": {
    "v": "2026-11-26",
@@ -133,6 +157,18 @@
    "source": "https://unsplash.com/photos/aerial-photography-of-cityscape-near-sea-7F65HDP0-E0",
    "sha1": "99ca56e4a7a1b2eb866bf3a55721ef0f2f4d2b5c"
   },
+  "BS": {
+   "v": "2026-11-27",
+   "file": "BS.jpg",
+   "w": 1200,
+   "h": 1800,
+   "place": "Eleuthera",
+   "author": "Cristofer Maximilian",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/seashore-during-daytime-vWxE6Ejr9j0",
+   "sha1": "d1367c4bd75e674f638a0fddcc3fbe10c3b54786"
+  },
   "BT": {
    "v": "2026-11-26",
    "file": "BT.jpg",
@@ -144,6 +180,30 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-mountain-with-a-very-tall-building-on-top-of-it-zhVN71I8888",
    "sha1": "a444838bedfc25cd9d37116a867be29e93902dd4"
+  },
+  "BZ": {
+   "v": "2026-11-27",
+   "file": "BZ.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Great Blue Hole",
+   "author": "Agnes Lee",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-blue-hole-in-the-middle-of-the-ocean-2SIegvrtKzI",
+   "sha1": "28baea67f794e1f654ad9992c1a54c2eb49c1577"
+  },
+  "CA": {
+   "v": "2026-11-27",
+   "file": "CA.jpg",
+   "w": 1200,
+   "h": 859,
+   "place": "Moraine Lake",
+   "author": "John Lee",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY",
+   "sha1": "74ab6100a77b28597b4eaefca6f5a276e01073bb"
   },
   "CL": {
    "v": "2026-11-27",
@@ -180,6 +240,54 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/colonial-street-and-church-in-cartagena-GcHar4P8V_Q",
    "sha1": "3fd161e37a183feaf5038b2309d5c0061c0dacd3"
+  },
+  "CR": {
+   "v": "2026-11-27",
+   "file": "CR.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Arenal Volcano",
+   "author": "Daniel Ingersoll",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-very-tall-mountain-towering-over-a-lush-green-field-1GEY6GsWEk0",
+   "sha1": "5ebbf9b36b75c67305acea8e36bd8ad2716f606f"
+  },
+  "CU": {
+   "v": "2026-11-27",
+   "file": "CU.jpg",
+   "w": 1200,
+   "h": 960,
+   "place": "Havana",
+   "author": "Spencer Everett",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/two-cars-parked-outside-building-4MTSE39Oqro",
+   "sha1": "046a423c3a27ef26bae5fefbceb240d7519f87ff"
+  },
+  "DM": {
+   "v": "2026-11-27",
+   "file": "DM.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Dominica",
+   "author": "Chris Jones",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/waterfalls-and-grass-mountain-during-day-vu5Lhk35MRg",
+   "sha1": "0ee7d77ec48b6276aae0905d4946fed001b1160e"
+  },
+  "DO": {
+   "v": "2026-11-27",
+   "file": "DO.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Saona Island",
+   "author": "Rachid Oucharia",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/green-leafed-coconut-trees-1PwLUZwNmJQ",
+   "sha1": "46e8f1186145074fd1f5c641a03ee4d044114885"
   },
   "EC": {
    "v": "2026-11-27",
@@ -229,6 +337,18 @@
    "source": "https://unsplash.com/photos/white-and-green-coconut-tree-d779xu7rxQs",
    "sha1": "63280ad2a01cfa17abd072ea5addd5d184061bd1"
   },
+  "GD": {
+   "v": "2026-11-27",
+   "file": "GD.jpg",
+   "w": 1200,
+   "h": 674,
+   "place": "Grand Anse Beach",
+   "author": "Hugh Whyte",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-view-of-beach-during-daytime-NGYPQIBb8GM",
+   "sha1": "30648e81fb07b4da781364152f29437a2bf7f287"
+  },
   "GE": {
    "v": "2026-11-26",
    "file": "GE.jpg",
@@ -241,6 +361,18 @@
    "source": "https://unsplash.com/photos/gergeti-trinity-church-on-mountain-ridge-8bPJ0vagphw",
    "sha1": "ad711196864836552aacb9d3322b8f0dfa44758c"
   },
+  "GT": {
+   "v": "2026-11-27",
+   "file": "GT.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Antigua Guatemala",
+   "author": "Rodrigo Escalante",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-city-street-with-a-clock-tower-in-the-background-uliZMHrDgzM",
+   "sha1": "59b2da7691e5fb303218ce92b748e5915d510e1e"
+  },
   "GY": {
    "v": "2026-11-27",
    "file": "GY.jpg",
@@ -252,6 +384,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-large-waterfall-with-water-pouring-out-of-it-7QKewlK6Glg",
    "sha1": "de76f0bd3da7ab896e4544afe935d5b7bbfcad41"
+  },
+  "HT": {
+   "v": "2026-11-27",
+   "file": "HT.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Port-au-Prince",
+   "author": "Heather Suggitt",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-and-brown-concrete-houses-near-green-trees-during-daytime-P8ZZ0aofrXI",
+   "sha1": "b143adcc82847a8a1fbd6ad689e1df5020e31113"
   },
   "ID": {
    "v": "2026-11-26",
@@ -648,6 +792,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-small-boat-with-two-people-on-a-wide-river-ROCJ3aEL0Wk",
    "sha1": "83acecd1967bf0c69b97442bc1aa7bdfe3d95384"
+  },
+  "SV": {
+   "v": "2026-11-27",
+   "file": "SV.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Los Planes de Renderos, San Salvador",
+   "author": "Oswaldo Martinez",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-view-of-trees-near-body-of-water-bK-SRSgPWz8",
+   "sha1": "dba88913e90b2fa96be8401357b7efba4f5de098"
   },
   "SY": {
    "v": "2026-11-27",
