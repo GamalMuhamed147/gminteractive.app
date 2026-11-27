@@ -385,6 +385,18 @@
    "source": "https://unsplash.com/photos/a-large-waterfall-with-water-pouring-out-of-it-7QKewlK6Glg",
    "sha1": "de76f0bd3da7ab896e4544afe935d5b7bbfcad41"
   },
+  "HN": {
+   "v": "2026-11-27",
+   "file": "HN.jpg",
+   "w": 1200,
+   "h": 1600,
+   "place": "Copán Ruins",
+   "author": "Sergio Martínez",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-sculpture-of-a-man-on-a-horse-in-front-of-a-stone-wall-xcg-DwD_oVA",
+   "sha1": "22113319387975e760680704dcda70395c75184f"
+  },
   "HT": {
    "v": "2026-11-27",
    "file": "HT.jpg",
@@ -457,6 +469,18 @@
    "source": "https://unsplash.com/photos/a-large-building-with-a-green-dome-on-top-of-it-YB6ko7oDVt0",
    "sha1": "6627871b99c156226e288efbc08623bb55cd4a45"
   },
+  "JM": {
+   "v": "2026-11-27",
+   "file": "JM.jpg",
+   "w": 1200,
+   "h": 822,
+   "place": "Treasure Beach",
+   "author": "Caspar Rae",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-and-blue-boat-on-beach-during-daytime-CVeouMnjWBQ",
+   "sha1": "1aca27c7324c38db55f833d868a249097f0b769a"
+  },
   "JO": {
    "v": "2026-11-26",
    "file": "JO.jpg",
@@ -504,6 +528,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/angkor-wat-temple-complex-with-palm-trees-and-water-jMW9bO1j9D0",
    "sha1": "4acc1badf75a94a634e68f74344e9112deef663d"
+  },
+  "KN": {
+   "v": "2026-11-27",
+   "file": "KN.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Saint Kitts",
+   "author": "Omar Martin",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-hammock-hanging-between-two-trees-on-a-beach-jLm5Rk4Puuc",
+   "sha1": "073bbc6c8e3677bac4a7903817c25d4fde245e87"
   },
   "KP": {
    "v": "2026-11-27",
@@ -577,6 +613,18 @@
    "source": "https://unsplash.com/photos/boats-beside-dock-Bc2EPt6bM5w",
    "sha1": "23039a1694d44cbaefc37cc5d3458af5058de258"
   },
+  "LC": {
+   "v": "2026-11-27",
+   "file": "LC.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "The Pitons",
+   "author": "Karl Moore",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-view-of-a-city-with-a-mountain-in-the-background--hDvsPV_mQ0",
+   "sha1": "58209ab11e722c7c9cd1dcc019711988f3959f6e"
+  },
   "LK": {
    "v": "2026-11-27",
    "file": "LK.jpg",
@@ -625,6 +673,18 @@
    "source": "https://unsplash.com/photos/aerial-photography-of-resort-rooms-and-island-xPsFXsbXJRg",
    "sha1": "09d47e344a0569653370b74b1306a21afc2d2ef9"
   },
+  "MX": {
+   "v": "2026-11-27",
+   "file": "MX.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Chichén Itzá, Yucatán",
+   "author": "Christina Abken",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/gray-temple-JELUPXqdKDw",
+   "sha1": "8b6c55477d02d020a3cc45455ceda63727204f04"
+  },
   "MY": {
    "v": "2026-11-27",
    "file": "MY.jpg",
@@ -636,6 +696,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/petronas-twin-towers-in-kuala-lumpur-GdjZs5JZwZA",
    "sha1": "d9225c480abaf2013f32e8eec6646942912f70a2"
+  },
+  "NI": {
+   "v": "2026-11-27",
+   "file": "NI.jpg",
+   "w": 1200,
+   "h": 1800,
+   "place": "Granada",
+   "author": "Marwan Abdalah",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-L_0CcU5Bh5M",
+   "sha1": "2c5c9f2dc0191a673f02aa510d6489450a4c4986"
   },
   "NP": {
    "v": "2026-11-27",
@@ -684,6 +756,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-and-palm-trees-iQ7UkufQv6E",
    "sha1": "5ff14c1ee3684ac1fd771dc88ed17ebf7b4dfce1"
+  },
+  "PA": {
+   "v": "2026-11-27",
+   "file": "PA.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Panama City",
+   "author": "Sol Cerrud",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/city-skyline-at-sunset-over-the-ocean-d_4hdowbIaY",
+   "sha1": "a0f9d747db875164eba17801a05c37430372b2a1"
   },
   "PE": {
    "v": "2026-11-27",
@@ -889,6 +973,30 @@
    "source": "https://unsplash.com/photos/hot-air-balloons-over-cappadocia-landscape-Os2AlMKA9aY",
    "sha1": "42bc72e5ce1fbf1f046eca36fc3ee40996d23eaf"
   },
+  "TT": {
+   "v": "2026-11-27",
+   "file": "TT.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Pigeon Point Beach, Tobago",
+   "author": "Renaldo Matamoro",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/brown-wooden-house-on-green-body-of-water-during-daytime-weJBleMT_CA",
+   "sha1": "ce14bc5865d642a26fa9a8416600805e21acd3c7"
+  },
+  "US": {
+   "v": "2026-11-27",
+   "file": "US.jpg",
+   "w": 1200,
+   "h": 795,
+   "place": "Grand Canyon",
+   "author": "Omer Nezih Gerek",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/colorado-river-in-grand-canyon-ZZnH4GOzDgc",
+   "sha1": "b60530c38327659944d367385d4a3d8053927ec1"
+  },
   "UY": {
    "v": "2026-11-27",
    "file": "UY.jpg",
@@ -912,6 +1020,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/a-large-building-with-many-pillars-and-arches-l3AwHYiUGG0",
    "sha1": "2eaf94fbe1cc8409f3e45aae1a3fe42db2286d95"
+  },
+  "VC": {
+   "v": "2026-11-27",
+   "file": "VC.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Young Island",
+   "author": "George Apodaca",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-photography-of-island-DoPuczr3Rw8",
+   "sha1": "1bc281d4b87eec3d4986e75067fed31406cb2077"
   },
   "VE": {
    "v": "2026-11-27",
