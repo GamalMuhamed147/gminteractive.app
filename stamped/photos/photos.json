@@ -229,6 +229,30 @@
    "source": "https://unsplash.com/photos/angkor-wat-temple-complex-with-palm-trees-and-water-jMW9bO1j9D0",
    "sha1": "4acc1badf75a94a634e68f74344e9112deef663d"
   },
+  "KP": {
+   "v": "2026-11-27",
+   "file": "KP.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Pyongyang",
+   "author": "Thomas Evans",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-3dSv5LXts8A",
+   "sha1": "5be4cee8aaa04ea8ae75ac1b42aee5108974cb3c"
+  },
+  "KR": {
+   "v": "2026-11-27",
+   "file": "KR.jpg",
+   "w": 1200,
+   "h": 795,
+   "place": "Gyeongbokgung Palace, Seoul",
+   "author": "Daniel Bernard",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/geunjeongjeon-hall-at-gyeongbokgung-palace-seoul-RbaGeW_LbGs",
+   "sha1": "8c73b4a4904760bf34cec30cd9aa09129c86c993"
+  },
   "KW": {
    "v": "2026-11-27",
    "file": "KW.jpg",
@@ -276,6 +300,18 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/boats-beside-dock-Bc2EPt6bM5w",
    "sha1": "23039a1694d44cbaefc37cc5d3458af5058de258"
+  },
+  "LK": {
+   "v": "2026-11-27",
+   "file": "LK.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Sigiriya",
+   "author": "Dylan Shaw",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/sigiriya-rock-fortress-in-sri-lanka-smUAKwMT8XA",
+   "sha1": "03e1d76e4416fb9bd36a7add6031bb07269c55e4"
   },
   "MM": {
    "v": "2026-11-27",
@@ -336,6 +372,90 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/houses-overlooking-mountain-range-xyE1p1rG04U",
    "sha1": "5dda2ffd1e2a04ce5e075f0d4f056cfe73d7ebd5"
+  },
+  "OM": {
+   "v": "2026-11-27",
+   "file": "OM.jpg",
+   "w": 1200,
+   "h": 2133,
+   "place": "Oman",
+   "author": "Amalia Peigneux",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-and-palm-trees-iQ7UkufQv6E",
+   "sha1": "5ff14c1ee3684ac1fd771dc88ed17ebf7b4dfce1"
+  },
+  "PH": {
+   "v": "2026-11-27",
+   "file": "PH.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "El Nido, Palawan",
+   "author": "Rommel Paras",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-group-of-people-in-a-body-of-water-surrounded-by-large-rocks-wrHnE3kMplg",
+   "sha1": "e3b3fd8fdb3ccf2b3370bcb413da70c233cf16e1"
+  },
+  "PK": {
+   "v": "2026-11-27",
+   "file": "PK.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Hunza Valley",
+   "author": "Mehtab Farooq",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-photography-of-river-surrounded-by-mountains-8qCtP97jgoE",
+   "sha1": "3d87d533f7c8cdffa234c96cbb32131e00c44543"
+  },
+  "PS": {
+   "v": "2026-11-27",
+   "file": "PS.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Wadi Qelt, Jericho",
+   "author": "Nour Tayeh",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/brown-mountain-under-blue-sky-during-daytime-FvOsrwjVOzQ",
+   "sha1": "a7358d416ce4c5376a3f09825420a4bd19b17a5b"
+  },
+  "QA": {
+   "v": "2026-11-27",
+   "file": "QA.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Katara Towers, Lusail",
+   "author": "Popup Agency",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/katara-towers-in-lusail-qatar-jJtqDVzozQY",
+   "sha1": "9fa01ee21ddf193c31fbc8de14ecd289669aedd0"
+  },
+  "SA": {
+   "v": "2026-11-27",
+   "file": "SA.jpg",
+   "w": 1200,
+   "h": 674,
+   "place": "Elephant Rock, AlUla",
+   "author": "Hatem Boukhit",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-rock-formation-in-the-middle-of-a-desert-0nKLqQFGq2s",
+   "sha1": "811fad743f2136b9161da74dcc45ab80ddb26866"
+  },
+  "SG": {
+   "v": "2026-11-27",
+   "file": "SG.jpg",
+   "w": 1200,
+   "h": 926,
+   "place": "Marina Bay Sands",
+   "author": "Hu Chen",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg",
+   "sha1": "3893b25fda621844883b9347a6917335f7a73397"
   }
  }
 }
