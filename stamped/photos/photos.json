@@ -49,6 +49,18 @@
    "source": "https://unsplash.com/photos/glacier-in-los-glaciares-national-park-santa-cruz-province-patagonia-argentina-5RFMPufTKPA",
    "sha1": "1ff7c012dccd5e5e4e6c6339a36fad26d792c6da"
   },
+  "AU": {
+   "v": "2026-11-27",
+   "file": "AU.jpg",
+   "w": 1200,
+   "h": 674,
+   "place": "Sydney Opera House",
+   "author": "Caleb",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/sydney-opera-house-near-body-of-water-during-daytime-JmuyB_LibRo",
+   "sha1": "c8fe092183dec8b64627918a65c0433bb5956477"
+  },
   "AZ": {
    "v": "2026-11-26",
    "file": "AZ.jpg",
@@ -192,6 +204,30 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/brown-pyramid-under-blue-sky-during-daytime-vqRMXgVtGXM",
    "sha1": "735e5ffb2ce472629a5f065fee54718d759390f3"
+  },
+  "FJ": {
+   "v": "2026-11-27",
+   "file": "FJ.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Fiji",
+   "author": "Max",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-beach-with-blue-water-and-green-land-WZM9IcX5plw",
+   "sha1": "c42f2143a2be7c23dc58897d4a522dbc512e4332"
+  },
+  "FM": {
+   "v": "2026-11-27",
+   "file": "FM.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Pohnpei",
+   "author": "Adrian Smith",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-and-green-coconut-tree-d779xu7rxQs",
+   "sha1": "63280ad2a01cfa17abd072ea5addd5d184061bd1"
   },
   "GE": {
    "v": "2026-11-26",
@@ -469,6 +505,30 @@
    "source": "https://unsplash.com/photos/houses-overlooking-mountain-range-xyE1p1rG04U",
    "sha1": "5dda2ffd1e2a04ce5e075f0d4f056cfe73d7ebd5"
   },
+  "NR": {
+   "v": "2026-11-27",
+   "file": "NR.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Nauru coast",
+   "author": "Winston Chen",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/sea-water-and-rocks-by-the-beach-coast-during-daylight-bjJU61GHALI",
+   "sha1": "74914bcc4bc5d34092974115be2c1dc9f5ca2174"
+  },
+  "NZ": {
+   "v": "2026-11-27",
+   "file": "NZ.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Milford Sound",
+   "author": "Sébastien Goldberg",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/body-of-water-near-mountain-under-blue-sky-during-daytime-oXgPDa0OtAk",
+   "sha1": "a6c4f86dc905ea3428249499733619d423f6066e"
+  },
   "OM": {
    "v": "2026-11-27",
    "file": "OM.jpg",
@@ -649,6 +709,18 @@
    "source": "https://unsplash.com/photos/photography-of-people-near-cave-at-night-time-eiwVOa9zb10",
    "sha1": "961b1e2afbb8247db2e2f0a90f050047671c4e44"
   },
+  "TO": {
+   "v": "2026-11-27",
+   "file": "TO.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Tonga",
+   "author": "Aleen Prasad",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-birds-eye-view-of-a-beach-and-ocean-ZCX6TPpfCyU",
+   "sha1": "32735cd35c07771fa2a116d67b6c3f671fddd5a5"
+  },
   "TR": {
    "v": "2026-11-27",
    "file": "TR.jpg",
@@ -708,6 +780,30 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/boats-on-turquoise-ha-long-bay-kG7pOXbBfNs",
    "sha1": "5849a4db318493f0be9abad0448b311ed1f13f36"
+  },
+  "VU": {
+   "v": "2026-11-27",
+   "file": "VU.jpg",
+   "w": 1200,
+   "h": 900,
+   "place": "Vanuatu",
+   "author": "Seiji Seiji",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/aerial-view-of-green-trees-and-body-of-water-during-daytime-JxL6t8iVri4",
+   "sha1": "b27ca51fd303f982ad8be448dc9b7dff719eaecc"
+  },
+  "WS": {
+   "v": "2026-11-27",
+   "file": "WS.jpg",
+   "w": 1200,
+   "h": 2027,
+   "place": "Piula Cave Pool, Faleapuna",
+   "author": "Romeo Leaupepe Su'a",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-view-of-a-body-of-water-from-a-window-lCCnwZmpynM",
+   "sha1": "c6ae1412463722308c8196ce2dbc0ca14b4f5a86"
   },
   "YE": {
    "v": "2026-11-27",
