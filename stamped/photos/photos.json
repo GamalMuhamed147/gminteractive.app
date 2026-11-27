@@ -1,6 +1,18 @@
 {
  "built": "2026-11-27",
  "photos": {
+  "AE": {
+   "v": "2026-11-27",
+   "file": "AE.jpg",
+   "w": 1200,
+   "h": 1500,
+   "place": "Sheikh Zayed Grand Mosque, Abu Dhabi",
+   "author": "Daniel Olah",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/people-walking-on-street-near-white-dome-building-during-daytime-2lMK4dgqwFM",
+   "sha1": "0f913be1be0d3fe2f7fea4be000422ae7aaa810a"
+  },
   "AF": {
    "v": "2026-11-26",
    "file": "AF.jpg",
@@ -456,6 +468,114 @@
    "licenseUrl": "https://unsplash.com/license",
    "source": "https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg",
    "sha1": "3893b25fda621844883b9347a6917335f7a73397"
+  },
+  "SY": {
+   "v": "2026-11-27",
+   "file": "SY.jpg",
+   "w": 1200,
+   "h": 676,
+   "place": "Palmyra",
+   "author": "Aladdin Hammami",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-vi1fIqmbHP0",
+   "sha1": "a557f37a7a4970a58ff189d739d16e2cea46f657"
+  },
+  "TH": {
+   "v": "2026-11-27",
+   "file": "TH.jpg",
+   "w": 1200,
+   "h": 1798,
+   "place": "Wat Arun, Bangkok",
+   "author": "SHAN LU",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-river-8KVnMbjkOoY",
+   "sha1": "de71da6a079d3ccd93a5652bf8bf5e0a68f84067"
+  },
+  "TJ": {
+   "v": "2026-11-27",
+   "file": "TJ.jpg",
+   "w": 1200,
+   "h": 798,
+   "place": "Murghab, the Pamirs",
+   "author": "Joel Heard",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/white-sheep-on-green-grass-field-during-daytime-1a3oeopHa-U",
+   "sha1": "10bf27ed91628ae4ff52db3d43b378ec187e07d2"
+  },
+  "TL": {
+   "v": "2026-11-27",
+   "file": "TL.jpg",
+   "w": 1200,
+   "h": 899,
+   "place": "Beloi, Atauro Island",
+   "author": "Tanushree Rao",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/beach-sand-with-boats-on-daytime-KmsYtQaJ9xM",
+   "sha1": "11749205d7456458f429ca41520acacf5f274823"
+  },
+  "TM": {
+   "v": "2026-11-27",
+   "file": "TM.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Darvaza gas crater",
+   "author": "Ybrayym Esenov",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/photography-of-people-near-cave-at-night-time-eiwVOa9zb10",
+   "sha1": "961b1e2afbb8247db2e2f0a90f050047671c4e44"
+  },
+  "TR": {
+   "v": "2026-11-27",
+   "file": "TR.jpg",
+   "w": 1200,
+   "h": 675,
+   "place": "Cappadocia",
+   "author": "Radomir Brkovic",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/hot-air-balloons-over-cappadocia-landscape-Os2AlMKA9aY",
+   "sha1": "42bc72e5ce1fbf1f046eca36fc3ee40996d23eaf"
+  },
+  "UZ": {
+   "v": "2026-11-27",
+   "file": "UZ.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Sher-Dor Madrasah, Samarkand",
+   "author": "Aleksander Stypczynski",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-large-building-with-many-pillars-and-arches-l3AwHYiUGG0",
+   "sha1": "2eaf94fbe1cc8409f3e45aae1a3fe42db2286d95"
+  },
+  "VN": {
+   "v": "2026-11-27",
+   "file": "VN.jpg",
+   "w": 1200,
+   "h": 587,
+   "place": "Ha Long Bay",
+   "author": "Marina Lobato",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/boats-on-turquoise-ha-long-bay-kG7pOXbBfNs",
+   "sha1": "5849a4db318493f0be9abad0448b311ed1f13f36"
+  },
+  "YE": {
+   "v": "2026-11-27",
+   "file": "YE.jpg",
+   "w": 1200,
+   "h": 800,
+   "place": "Socotra",
+   "author": "Andrew Svk",
+   "license": "Unsplash",
+   "licenseUrl": "https://unsplash.com/license",
+   "source": "https://unsplash.com/photos/a-tree-with-a-mountain-in-the-background-REwZEYzw19g",
+   "sha1": "3b6a7d6d52fda6b4a56c1fc46e59216894513842"
   }
  }
 }
